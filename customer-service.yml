@@ -15,5 +15,5 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQLDialect
 jwt:
-  secret: JgmYuymFmBh4Sf3BZ59Ah1QEjnTxDwb3gqJ1Dz0eKi0=  # Base64 encoded key        
+  secret: pl7iOJtxguna7XZqNSBSXX46KUQKjY8mZkl5cw23Wfw=  # Base64 encoded key        
         
